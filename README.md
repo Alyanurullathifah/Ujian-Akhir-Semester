@@ -92,9 +92,10 @@ Input baris pertama merupakan banyaknya baris dan baris kedua merupakan banyakny
 
 Code 1
 <img width="71" alt="Screenshot_20221222_150931" src="https://user-images.githubusercontent.com/121221565/209099601-cc38735d-95d9-4c07-a2d5-2a906d6ef420.png">
-code 2
-<img width="347" alt="Screenshot_20221222_143340" src="https://user-images.githubusercontent.com/121221565/209099741-fc58b859-6011-4c44-9e5e-6c7061944377.png">
 
+code 2
+
+<img width="306" alt="Screenshot_20221222_142812" src="https://user-images.githubusercontent.com/121221565/209100390-e28c8fbf-93be-411f-872a-f18fd4ba5ef5.png">
 
 
 readme.md
