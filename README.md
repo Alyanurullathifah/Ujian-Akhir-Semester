@@ -91,11 +91,12 @@ Input baris pertama merupakan banyaknya baris dan baris kedua merupakan banyakny
 ## Output
 
 Code 1
-<img width="71" alt="Screenshot_20221222_150931" src="https://user-images.githubusercontent.com/121221565/209099601-cc38735d-95d9-4c07-a2d5-2a906d6ef420.png">
+<img width="347" alt="Screenshot_20221222_143340" src="https://user-images.githubusercontent.com/121221565/209100849-33184694-4de0-4fd6-9100-066ec638be61.png">
+
 
 code 2
+<img width="306" alt="Screenshot_20221222_142812" src="https://user-images.githubusercontent.com/121221565/209100908-f3394406-4c6f-47ab-99de-5aa7eca4dd74.png">
 
-<img width="306" alt="Screenshot_20221222_142812" src="https://user-images.githubusercontent.com/121221565/209100390-e28c8fbf-93be-411f-872a-f18fd4ba5ef5.png">
 
 
 readme.md
